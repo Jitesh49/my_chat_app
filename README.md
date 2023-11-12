@@ -3,6 +3,7 @@ MyChat -Flutter & Firebase Authentication Chat App
 
 # Output
 
-![Screenshot 2023-11-12 000742](https://github.com/Jitesh49/my_chat_app/assets/66079577/80413cb7-4d19-4e8f-85df-66750608514e)
-![Screenshot 2023-11-12 000827](https://github.com/Jitesh49/my_chat_app/assets/66079577/be9a857e-13f7-4e93-9fa5-2f450ee74936)
-![Screenshot 2023-11-12 001001](https://github.com/Jitesh49/my_chat_app/assets/66079577/78dbea35-1708-4fd7-9d29-e2b41e680a51)
+![Screenshot 2023-11-12 000742](https://github.com/Jitesh49/my_chat_app/assets/66079577/7e6c2762-61fc-4811-b8dd-0389704bcf49)
+![Screenshot 2023-11-12 000827](https://github.com/Jitesh49/my_chat_app/assets/66079577/1c99b296-a381-404c-ba12-943dca1e7a89)
+![Screenshot 2023-11-12 001001](https://github.com/Jitesh49/my_chat_app/assets/66079577/3ab89c78-4d04-447e-9724-9b57d0c609d7)
+
