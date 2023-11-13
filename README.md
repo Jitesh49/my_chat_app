@@ -1,6 +1,13 @@
 # my_chat_app
 MyChat -Flutter & Firebase Authentication Chat App
 
+Developed "MyChat," an authentication app using Flutter and
+Firebase.
+Main feature: New users are required to add a profile photo,
+username, and email address.
+The app functions as a private group, allowing only authorized
+users to access it
+
 # Output
 
 ![Screenshot 2023-11-12 000742](https://github.com/Jitesh49/my_chat_app/assets/66079577/7e6c2762-61fc-4811-b8dd-0389704bcf49)
