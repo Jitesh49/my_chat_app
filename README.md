@@ -8,6 +8,9 @@ username, and email address.
 The app functions as a private group, allowing only authorized
 users to access it
 
+apk - [MyChat Apk.zip](https://github.com/Jitesh49/my_chat_app/files/13624558/MyChat.Apk.zip)
+
+
 # Output
 
 ![Screenshot 2023-11-12 000742](https://github.com/Jitesh49/my_chat_app/assets/66079577/7e6c2762-61fc-4811-b8dd-0389704bcf49)
